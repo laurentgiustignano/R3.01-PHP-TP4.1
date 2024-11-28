@@ -1,0 +1,5 @@
+### Donne l'état de l'alarme
+GET http://localhost:8765/alarme
+
+### Requete erroné
+GET http://localhost:8765/
